@@ -2,7 +2,6 @@
 #include<ctype.h>
 #include<string.h>
 
-
 void followfirst(char, int, int);
 void follow(char c);
 
